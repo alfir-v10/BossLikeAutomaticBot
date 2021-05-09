@@ -4,7 +4,7 @@ Bot for automating the boring task on the site https://bosslike.ru using Seleniu
 
 # How to use it:
   * You need to create a folder "drivers/", and load the driver into it: [geckodriver](https://github.com/mozilla/geckodriver/releases) or [chromedriver](https://chromedriver.chromium.org/)
-  * Change the config.py file
+  * Change the config.py[https://github.com/alfir-v10/BossLikeAutomaticBot/blob/main/config.py] file
 
 # Bot Features:
   * likes on instagram
